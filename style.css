@@ -1,12 +1,11 @@
 body {
     margin: 8px;
-    background-color: black; 
     background-image: url(img/vinyl_turntable_music_black_needle_play_sound_vintage-669104.jpg);
     background-repeat:no-repeat;
     background-position: center;
     background-size:cover;
     color: white;
-    text-align: center;
+    margin: 0px;
     font-size: 2em;
 }
 header {

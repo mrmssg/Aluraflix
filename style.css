@@ -11,9 +11,9 @@ body {
 header {
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 10px;
-    font-size: 32px;
+    font-size: 28px;
 }
 .cabecalho{
     display: flex;
-    padding: 5px;
+    padding: 10px;
 }

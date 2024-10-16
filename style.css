@@ -9,6 +9,9 @@ body {
     text-align: center;
     font-size: 2em;
 }
+header {
+    border: solid 2px white;
+}
 .cabecalho{
     display: flexbox;
 }

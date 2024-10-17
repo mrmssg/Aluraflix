@@ -41,5 +41,5 @@ header {
 
 .videos img:hover{
 opacity: 1.0;
-border: 1px solid green;
+border: 2px solid green;
 }

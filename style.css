@@ -32,6 +32,7 @@ header {
   }
 
 .recomendacoes h2{
+    font-size: 24px;
     text-align: left;
     color:rgb(42, 122, 228) ;
 }

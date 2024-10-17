@@ -23,12 +23,12 @@ header {
     padding: 2%;
 }
 
-.recomendacoes h2{
+.recomendacoes {
     padding-left: 20px;
     padding-right: 20px;
   }
 
-.recomendacoes{
+.videos{
     display: flex;
     overflow-x: auto;
     gap: 10px;

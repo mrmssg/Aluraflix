@@ -29,6 +29,10 @@ header {
     padding-right: 20px;
   }
 
+.recomendacoes h2{
+    color:rgb(42, 122, 228) ;
+}
+
 .videos{
     display: flex;
     overflow-x: auto;

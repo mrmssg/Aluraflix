@@ -34,11 +34,12 @@ header {
     gap: 10px;
 }
 
-.videos img: :hover{
-opacity: 1.0;
-}
-
-img{
+.videos img{
+    opacity: 0.5;
     height: 180px;
 }
 
+.videos img: :hover{
+opacity: 1.0;
+border: 1px solid green;
+}

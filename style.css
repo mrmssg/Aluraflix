@@ -36,7 +36,7 @@ header {
 
 .videos img{
     opacity: 0.5;
-    height: 180px;
+    height: 160px;
 }
 
 .videos img: :hover{

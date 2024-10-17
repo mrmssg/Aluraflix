@@ -28,7 +28,7 @@ header {
     padding-right: 20px;
   }
 
-.recomendacoes__01__video{
+.recomendacoes__01{
     display: flex;
     overflow-x: auto;
     gap: 10px;

@@ -25,7 +25,11 @@ header {
 }
 .recomendacoes{
     display: flex;
-    
+    justify-content: center;
+    padding: 10px;
+}
+.recomendacoes__titulo h2{
+    font-size: 24px;
 }
 img{
     height: 200px;

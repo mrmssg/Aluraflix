@@ -24,6 +24,7 @@ header {
 }
 .recomendacoes{
     display: flex;
+    overflow-x: auto;
     justify-content: center;
     padding: 10px;
 }

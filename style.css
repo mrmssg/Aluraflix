@@ -23,3 +23,10 @@ header {
 .cabecalho__titulo{
     padding: 2%;
 }
+.recomendacoes{
+    display: flex;
+    
+}
+img{
+    height: 200px;
+}

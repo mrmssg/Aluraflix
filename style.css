@@ -39,7 +39,7 @@ header {
     height: 160px;
 }
 
-.videos img: :hover{
+.videos img:hover{
 opacity: 1.0;
 border: 1px solid green;
 }

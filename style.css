@@ -34,6 +34,11 @@ header {
     gap: 10px;
 }
 
+.videos img: :hover{
+opacity: 1.0;
+}
+
 img{
     height: 180px;
 }
+

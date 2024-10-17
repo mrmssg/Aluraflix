@@ -22,7 +22,13 @@ header {
 .cabecalho__titulo{
     padding: 2%;
 }
-.recomendacoes{
+
+.recomendacoes {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+.recomendacoes__01__video{
     display: flex;
     overflow-x: auto;
     gap: 10px;
@@ -31,7 +37,3 @@ header {
 img{
     height: 150px;
 }
-section {
-    padding-left: 20px;
-    padding-right: 20px;
-  }
